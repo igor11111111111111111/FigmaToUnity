@@ -163,6 +163,7 @@ GameObject:
   - component: {fileID: 3906174362534593187}
   - component: {fileID: 3906174362534593189}
   - component: {fileID: 3906174362534593188}
+  - component: {fileID: 7855980488306655140}
   m_Layer: 0
   m_Name: Rectangle 67
   m_TagString: Untagged
@@ -228,6 +229,21 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
+--- !u!114 &7855980488306655140
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3906174362534593186}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_EffectColor: {r: 0.29156283, g: 0.9811321, b: 0.9082903, a: 1}
+  m_EffectDistance: {x: 3, y: 3}
+  m_UseGraphicAlpha: 1
 --- !u!1 &3906174362615251292
 GameObject:
   m_ObjectHideFlags: 0
@@ -531,8 +547,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3312d7739989d2b4e91e6319e9a96d76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Padding: {x: 0, y: 0, z: 0, w: 0}
-  m_Softness: {x: 0, y: 0}
+  m_Padding: {x: -5, y: -5, z: -5, w: -5}
+  m_Softness: {x: 10, y: 10}
 --- !u!1 &3906174363186569413
 GameObject:
   m_ObjectHideFlags: 0

@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTypeDate xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TypeDate>
+    <guid>a6275089d1b265241a5c17c3215d65c7</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/AssetCollector.cs</fileName>
+    <timeStamp>2022-12-14T08:37:41+05:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.AssetCollector</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>da95074ffc6c89a418a62f881299ca54</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/AssetReferenceCollection.cs</fileName>
+    <timeStamp>2022-12-14T08:37:41+05:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.AssetReferenceCollection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>39e21aa48ab900641b1a633f6f6b96c3</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/ClassReferenceCollection.cs</fileName>
+    <timeStamp>2022-12-14T08:37:41+05:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.ClassReferenceCollection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>59e99224431e4d04fbf451fb891b7632</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/CollectionData.cs</fileName>
+    <timeStamp>2022-12-14T08:37:41+05:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.CollectionData</string>
+      <string>UnitySweeper.TypeDate</string>
+      <string>UnitySweeper.IReferenceCollection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d61e8df7713425a4fb8f4039894ddca7</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/FindUnusedAssetsWindow.cs</fileName>
+    <timeStamp>2022-12-14T08:37:41+05:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.FindUnusedAssetsWindow</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>25fc1824d1f3e754e90369a742bac7a1</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/ShaderReferenceCollection.cs</fileName>
+    <timeStamp>2022-12-14T08:37:41+05:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.ShaderReferenceCollection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>cefd7e196199452cb58138aec08467da</guid>
+    <fileName>Assets/FigmaImporter/Editor/ColorUtils.cs</fileName>
+    <timeStamp>2023-09-10T14:15:32+05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e7772a1d3cc83864db2380e5917a4b68</guid>
+    <fileName>Assets/FigmaImporter/Editor/FigmaImporter.cs</fileName>
+    <timeStamp>2023-09-10T14:15:32+05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ad400953b60bd4f46ad225a4161e2df2</guid>
+    <fileName>Assets/FigmaImporter/Editor/FigmaImporterSettings.cs</fileName>
+    <timeStamp>2023-09-10T14:15:32+05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ef8abf76b8658f049a028f6fcdbf9b7d</guid>
+    <fileName>Assets/FigmaImporter/Editor/FigmaNodeGenerator.cs</fileName>
+    <timeStamp>2023-09-10T14:15:32+05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0e52b58d313044649144808ca3089e31</guid>
+    <fileName>Assets/FigmaImporter/Editor/FigmaNodesProgressInfo.cs</fileName>
+    <timeStamp>2023-09-10T14:15:32+05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>081da3f562d8a7a4085515410748e5b5</guid>
+    <fileName>Assets/FigmaImporter/Editor/FigmaParser.cs</fileName>
+    <timeStamp>2023-09-10T14:15:32+05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>efc5b29e5201af647aac70cb79207ae9</guid>
+    <fileName>Assets/FigmaImporter/Editor/FontLinks.cs</fileName>
+    <timeStamp>2023-09-10T14:15:32+05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c299475c26bd51a468b4de4404eb6cfa</guid>
+    <fileName>Assets/FigmaImporter/Editor/GradientsGenerator.cs</fileName>
+    <timeStamp>2023-09-10T14:15:32+05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>cbdee074f0444b7f88237c5e2ef020eb</guid>
+    <fileName>Assets/FigmaImporter/Editor/ImageUtils.cs</fileName>
+    <timeStamp>2023-09-10T14:15:32+05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b39be46559cafec458ea42015f0dfa63</guid>
+    <fileName>Assets/FigmaImporter/Editor/Node.cs</fileName>
+    <timeStamp>2023-09-10T14:15:32+05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b9c0020220d14b5188cc7bfc889e6cd7</guid>
+    <fileName>Assets/FigmaImporter/Editor/NodesAnalyzer.cs</fileName>
+    <timeStamp>2023-09-10T14:15:32+05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f42713039e3d4cb891b95325e82767f3</guid>
+    <fileName>Assets/FigmaImporter/Editor/TMPUtils.cs</fileName>
+    <timeStamp>2023-09-10T14:15:32+05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3f3255ce57a94f6c9ae9d062fce76a7a</guid>
+    <fileName>Assets/FigmaImporter/Editor/TransformUtils.cs</fileName>
+    <timeStamp>2023-09-10T14:15:32+05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c3cf55b48c197bb40a09696dead1d7c2</guid>
+    <fileName>Assets/FigmaImporter/Editor/EditorTree/MultiColumnLayout.cs</fileName>
+    <timeStamp>2023-09-10T14:15:32+05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e00d20ba7c1f4d446a34ea24d8b82c4e</guid>
+    <fileName>Assets/FigmaImporter/Editor/EditorTree/MultiColumnTreeView.cs</fileName>
+    <timeStamp>2023-09-10T14:15:32+05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f1bafad60d37c484dab3ce5b74c04a6a</guid>
+    <fileName>Assets/FigmaImporter/Editor/EditorTree/TreeData/NodeTreeElement.cs</fileName>
+    <timeStamp>2023-09-10T14:15:32+05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>68fe63fd42552e7418aac450b41b8afb</guid>
+    <fileName>Assets/FigmaImporter/Editor/EditorTree/TreeData/TreeViewWithTreeModel.cs</fileName>
+    <timeStamp>2023-09-10T14:15:32+05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>69be32fe4d27dde489209c5885c1e5dc</guid>
+    <fileName>Assets/FigmaImporter/Editor/EditorTree/TreeDataModel/TreeElement.cs</fileName>
+    <timeStamp>2023-09-10T14:15:32+05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>fd65e8f324e17a344a97ddcf5a8d89d2</guid>
+    <fileName>Assets/FigmaImporter/Editor/EditorTree/TreeDataModel/TreeElementUtility.cs</fileName>
+    <timeStamp>2023-09-10T14:15:32+05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6f9fab1cf2636a6439c644bf08108abb</guid>
+    <fileName>Assets/FigmaImporter/Editor/EditorTree/TreeDataModel/TreeModel.cs</fileName>
+    <timeStamp>2023-09-10T14:15:32+05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+</ArrayOfTypeDate>
